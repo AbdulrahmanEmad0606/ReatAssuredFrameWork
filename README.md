@@ -2,7 +2,7 @@
 ## Table of Conten
 -   [Introduction](#introduction)
 -   [Prerequisites](#Prerequisites)
--   [Used Features](#UsedFeatures)
+-   [Used Features And Tools](#UsedFeaturesAndTools)
 -   [Others](#Others)
   
 ## Introduction
@@ -15,7 +15,7 @@ I have been used OOP paradigm to implement this framework, to make it flexible, 
 - fasterxml.jackson (Serialization and Deserialization)
 - testNG
 
-## UsedFeatures
+## Used Features And Tools
 - Serialization and Deserialization
 - [POJO converter tool](https://json2csharp.com/code-converters/json-to-pojo)
 - use XML File For Parallel Execution
