@@ -22,4 +22,4 @@ I have been used OOP paradigm to implement this framework, to make it flexible, 
 - Generate testNG Report
 
 ## Others
-- [UML Clas Diagram That clear the project Structure](https://drive.google.com/file/d/1jbfqFOfn4Hh8tm4d_Ji7BF1oVF9H2ox1/view?usp=sharing)
+- [UML Clas Diagram That clears the project Structure](https://drive.google.com/file/d/1jbfqFOfn4Hh8tm4d_Ji7BF1oVF9H2ox1/view?usp=sharing)
