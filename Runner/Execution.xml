@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FakerestAPI">
+    <suite-files>
+        <suite-file path="ActivitiesExec.xml"/>
+        <suite-file path="AuthorExec.xml"/>
+        <suite-file path="BooksExc.xml"/>
+        <suite-file path="CoverPhotos.xml"/>
+        <suite-file path="UserExec.xml"/>
+    </suite-files>
+</suite>

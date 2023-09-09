@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Author Suite">
+    <test name="GetAllAuthors Test">
+        <classes>
+            <class name="AuthorsTests.GetAllAuthors">
+            </class>
+        </classes>
+    </test>
+    <test name="CreateNewAuthor Test">
+        <classes>
+            <class name="AuthorsTests.CreateNewAuthorTests">
+            </class>
+        </classes>
+    </test>
+    <test name="GetSpecific Author Test">
+        <classes>
+            <class name="AuthorsTests.GetSpecificUser">
+            </class>
+        </classes>
+    </test>
+    <test name="Edit Author Test">
+        <classes>
+            <class name="AuthorsTests.EditAuthor">
+            </class>
+        </classes>
+    </test>
+    <test name="Delete Author Test">
+        <classes>
+            <class name="AuthorsTests.DeleteAuthor">
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
